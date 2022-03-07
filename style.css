@@ -1,0 +1,48 @@
+body {
+  background-color: #1f1f1f;  
+  font-family:monospace;
+
+}
+
+#quizarea
+{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height:400px;
+  width:800px;
+  background-color: black;
+  border-radius: 3px;
+}
+
+h2,
+h3,
+h4,
+p {
+  color: green;
+}
+
+
+
+#question,
+#result {
+  display: none;
+}
+
+
+
+.row {
+    background: #dbdfe5;
+    margin:auto;
+    
+
+}
+
+.quizcontent {
+    padding: 25px;
+    font-size: 18px;
+    background: #abb1b8;
+}
