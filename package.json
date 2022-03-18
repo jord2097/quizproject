@@ -8,7 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
-  
-  
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jord2097/quizproject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jord2097/quizproject/issues"
+  },
+  "homepage": "https://github.com/jord2097/quizproject#readme"
 }

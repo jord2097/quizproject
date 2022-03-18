@@ -1,4 +1,0 @@
-- first social network
-- types of trendy fast food 
-- first version of windows you used
-- fears
